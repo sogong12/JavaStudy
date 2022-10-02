@@ -1,2 +1,2 @@
 # projcet
-privacy project
+JavaStudy
