@@ -1,2 +1,2 @@
-# projcet
+# JavaStudy
 JavaStudy
